@@ -1,0 +1,112 @@
+/* Set the background color of the dashboard */
+.dashboard {
+    background-color: #ffffff;
+  }
+  
+  /* Set the font family of the dashboard */
+  .dashboard * {
+    font-family: sans-serif;
+  }
+  
+  /* Set the font size of the dashboard */
+  .dashboard h1 {
+    font-size: 24px;
+  }
+  
+  .dashboard ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .dashboard li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .dashboard a {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  .dashboard a:hover {
+    color: #0000ff;
+  }
+  /* Set the background color of the dashboard */
+.dashboard {
+    background-color: #ffffff;
+  }
+  
+  /* Set the font family of the dashboard */
+  .dashboard * {
+    font-family: sans-serif;
+  }
+  
+  /* Set the font size of the dashboard */
+  .dashboard h1 {
+    font-size: 24px;
+  }
+  
+  /* Set the padding and margin of the dashboard */
+  .dashboard {
+    padding: 20px;
+    margin: 0 auto;
+    width: 600px;
+  }
+  
+  /* Set the border of the dashboard */
+  .dashboard {
+    border: 1px solid #ccc;
+  }
+  
+  /* Set the color of the links in the dashboard */
+  .dashboard a {
+    color: #9b9b19;
+    text-decoration: none;
+  }
+  
+  /* Set the hover color of the links in the dashboard */
+  .dashboard a:hover {
+    color: #e8e8f4;
+  }
+  
+  /* Add a graduation cap to the dashboard */
+  .dashboard img {
+    width: 100px;
+    height: 100px;
+    float: right;
+  }
+  /* Add a background image */
+.dashboard {
+    background-image: url("pexels-sanket-mishra-16461434.jpg");
+  }
+  
+  /* Add some icons */
+  .dashboard .icon {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 10px;
+  }
+  
+  /* Add some charts or graphs */
+  .dashboard .chart {
+    width: 400px;
+    height: 200px;
+  }
+  
+  /* Add some social media links */
+  .dashboard .social-media {
+    float: right;
+  }
+  
+  /* Add your name and photo */
+  .dashboard .name {
+    font-size: 24px;
+  }
+  
+  .dashboard .photo {
+    width: 100px;
+    height: 100px;
+    float: right;
+  }
